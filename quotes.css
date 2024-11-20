@@ -1,0 +1,21 @@
+/* Love Quotes Page Styles */
+section {
+  padding: 20px;
+  background-color: #fff0f5;
+  text-align: center;
+}
+
+h2 {
+  color: #ff69b4;
+  font-size: 2em;
+}
+
+p {
+  color: #333;
+  font-style: italic;
+  font-size: 1.2em;
+}
+
+footer {
+  background-color: #ff69b4;
+}

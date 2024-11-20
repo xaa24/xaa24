@@ -1,0 +1,38 @@
+/* Gallery Page Styles */
+.gallery {
+  background-color:#fff0f5;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 20px;
+  padding: 20px;
+}
+
+.gallery img {
+  color: #fff0f;
+  width: 100%;
+  height: auto;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+.gallery img {
+  color: #fff0f5;
+  width: 100%;
+  height: auto;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  
+  
+  
+  
+  
+  
+  
+}
+
+footer {
+  background-color: #ff649b;
+  color: white;
+  text-align: center;
+  padding: px;
+}

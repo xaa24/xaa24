@@ -1,0 +1,18 @@
+/* About Page Specific Styles */
+body {
+  background-color: #fff;
+  color: #333;
+}
+
+section {
+  padding: 20px;
+  margin: 20px;
+}
+
+h2 {
+  color: #ff69b4;
+}
+
+footer {
+  background-color: #ff69b4;
+}

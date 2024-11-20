@@ -1,0 +1,37 @@
+/* Halaman Musik Romantis */
+body {
+  background-color: #fff0f5;
+  color: #333;
+  font-family: Arial, sans-serif;
+}
+
+
+h1, h2 {
+  color: #ff69b4;
+}
+
+audio {
+  display: block;
+  margin: 20px auto;
+}
+
+button {
+  margin: 10px;
+  padding: 10px 20px;
+  background-color: #ff69b4;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #ff1493;
+}
+
+footer {
+  background-color: #ff69b4;
+  color: white;
+  text-align: center;
+  padding: 10px;
+}
